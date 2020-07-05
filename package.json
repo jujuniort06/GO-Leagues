@@ -1,0 +1,19 @@
+{
+  "name": "go-leagues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jujuniort06/GO-Leagues.git"
+  },
+  "author": "Julio / Lucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jujuniort06/GO-Leagues/issues"
+  },
+  "homepage": "https://github.com/jujuniort06/GO-Leagues#readme"
+}
